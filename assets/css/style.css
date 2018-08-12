@@ -46,3 +46,13 @@ nav {
     float:right;
     margin-top: 25px;
 }
+
+nav a {
+    color: #999999;
+    text-decoration: none;
+    margin-left: 50px;
+    display: inline-block;
+    border-left: 1px solid #efefef;
+    padding-left: 10px;
+    line-height: 30px;
+}
